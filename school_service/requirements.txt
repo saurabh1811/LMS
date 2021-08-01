@@ -1,0 +1,20 @@
+fastapi == 0.64.0
+loguru == 0.5.1
+pydantic == 1.6
+requests == 2.23.0
+starlette == 0.13.6
+python-dotenv 
+wheel
+uvicorn
+passlib
+bcrypt
+transformers
+cryptography
+python-jose
+python-multipart
+sqlalchemy
+psycopg2-binary
+fastapi_restful
+authlib
+itsdangerous
+httpx
