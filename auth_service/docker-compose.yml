@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  quill_auth_service:
+    build: .
+    ports:
+      - "8001:80"
